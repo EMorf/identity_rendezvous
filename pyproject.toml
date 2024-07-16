@@ -60,7 +60,7 @@ classifiers = [
 
 dependencies = [
   "mechanize"
-]
+  ]
 
 [project.optional-dependencies]
 dev = ["pytest"]
